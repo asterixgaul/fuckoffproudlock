@@ -1,0 +1,9 @@
+Package: com.asterix.fuckoffproudlock
+Name: FuckOffProudLock
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes proudlock on iOS 13
+Maintainer: Asterix
+Author: Asterix
+Section: Tweaks
